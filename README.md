@@ -1,7 +1,3 @@
-## Title
-
-**Improving Quick Sort Efficiency Using Randomized Algorithm**
-
 ## Objective
 
 The objective of this program is to compare the performance of **Deterministic Quick Sort (DQS)** and **Randomized Quick Sort (RQS)** on different types of input data. The comparison is based on:
