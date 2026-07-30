@@ -140,8 +140,4 @@ Both algorithms require:
 ```text
 O(log n)
 ```
-
-for recursion stack space on average.
-
 ---
-in practical applications where input characteristics are unknown.
